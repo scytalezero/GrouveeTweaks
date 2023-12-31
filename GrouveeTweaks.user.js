@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Grouvee Tweaks
 // @namespace    https://ligature.me/
-// @version      1.1
+// @version      1.2
 // @description  Add features to Grouvee.
 // @author       You
-// @match        https://www.grouvee.com/user/ScytaleZero/shelves/*
+// @match        https://www.grouvee.com/user/*/shelves/*
 // @grant        none
 // ==/UserScript==
 
